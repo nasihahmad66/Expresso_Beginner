@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.example.android.teatime.model;
+package com.example.android.teatime;
 
 import android.content.Context;
 import android.os.Handler;
@@ -23,7 +23,7 @@ import android.support.test.espresso.IdlingResource;
 import android.widget.Toast;
 
 import com.example.android.teatime.IdlingResource.SimpleIdlingResource;
-import com.example.android.teatime.R;
+import com.example.android.teatime.model.Tea;
 
 import java.util.ArrayList;
 
